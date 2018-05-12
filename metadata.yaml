@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4607
     wikipedia: http://fi.wikipedia.org/wiki/Julius_Krohn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42453#Suomalaisen-kirjallisuuden-vaiheet
 gutenberg_issued: '2013-04-01'
 gutenberg_type: Text
 identifiers:
